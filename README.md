@@ -22,19 +22,27 @@
 
 ## Table of Contents
 
-- [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
-- [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
-- [Project 3: Rossman Sales Forecasting](https://github.com/tushar2704/Rossman-Sales-Forecasting)
-- [Project 4: Stock Market Trend Analysis](https://github.com/tushar2704/Stock-Market-Trend-Analysis)
-- [Project 5: Instagram Users Analytics](https://github.com/tushar2704/Instagram-User-Analytics)
-- [Project 6: Pizza Sales Analysis](https://github.com/tushar2704/Pizza-Sales-Analysis)
+- [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
+- [Project 2: Instacart Top Sales](https://github.com/davesh9123-alt/Instacart_top_sales)
+- [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
+- [Project 4: Aplicacion Web de Autos y EDA](https://github.com/davesh9123-alt/Webapp_Vehicles_and_EDA)
 
 
-## [Project 1: Sales for Retail and Food Services](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+## [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 
-In this project, I analyzed and visualized the sales data for Retail and Food Services in the U.S.A. The data is sourced from the U.S. government website and has been processed using SQL to create a database for easy management and analysis. The main focus of this project is to explore the sales data based on NAICS (North American Industry Classification System) code and category.
+Analisis historico de las ventas de videojuegos desde 1980 hasta 2016 segun la plataforma de ventas Ice.
 
-## [Project 2: Superstore Sales Dashboard with Streamlit](https://github.com/tushar2704/Superstore-Sales-Dashboard-with-Streamlit)
 
-Superstore Sales with Streamlit is a data visualization and analysis project that uses the Streamlit framework to create an interactive web application for exploring and analyzing sales data from a superstore. This project aims to provide an easy-to-use interface for users to gain insights into sales trends, Sales performance, product performance, Shippin analysis and Location analysis. 
-###### Deployment [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tushar2704-superstore-dashboard.streamlit.app/)
+## [Project 2: Instacart Top Sales](https://github.com/davesh9123-alt/Instacart_top_sales)
+
+Analisis sobre ventas y consumo de los usuarios de la tienda online Instacart.
+
+
+## [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
+
+Analisis sobre el comportamiento de los usuarios de dos planes de telefonia movil para determinar cual es el plan mas rentable. El proyecto incluye los datasets utilizados (los datos en bruto) dentro de la carpeta "datasets" y un archivo 'ipynb' donde se desarrolla la limpieza y el analisis de datos como tal.
+
+
+## [Project 4: Aplicacion Web de Autos y EDA](https://github.com/davesh9123-alt/Webapp_Vehicles_and_EDA)
+
+En este proyecto desarrolle una aplicacion web interactiva con la finalidad de poder hacer comparativas en tiempo real sobre una base de datos de automoviles, ya que se pueden catagorizar por modelos, fabricantes y precios. Tambien realizacion un EDA para extraer insights relevantes para la venta a los usuarios finales.
