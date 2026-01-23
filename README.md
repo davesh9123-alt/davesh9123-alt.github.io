@@ -118,8 +118,6 @@ El analisis muestra como los productos organicos (frutas y verduras) son los pro
 
 ## [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
 
-# Planes de Telefonia Movil (Megaline)
-
 Este proyecto evalúa los ingresos generados por los dos planes prepago de Megaline, Surf y Ultimate, para determinar cuál es más rentable. Analizando datos de 500 clientes, incluye la depuración de datos, el análisis exploratorio y la comparación de ingresos entre los planes. El proyecto implica la realización de pruebas de hipótesis para evaluar las diferencias significativas en los ingresos promedio entre planes y regiones, lo que proporciona información para optimizar el presupuesto publicitario de la compañía.
 
 
