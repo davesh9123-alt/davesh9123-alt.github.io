@@ -38,7 +38,6 @@ Data Analyst Junior con sólidas habilidades en Python, SQL y Power BI, con enfo
 - [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
 - [Project 2: Instacart Top Sales](https://github.com/davesh9123-alt/Instacart_top_sales)
 - [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
-- [Project 4: Aplicacion Web de Autos y EDA](https://github.com/davesh9123-alt/Webapp_Vehicles_and_EDA)
 
 
 ## [Project 1: ICE Games Sales 2016](https://github.com/davesh9123-alt/ICE_games_sales_2016)
@@ -109,9 +108,45 @@ El analisis muestra como los productos organicos (frutas y verduras) son los pro
 
 ## [Project 3: Planes de Telefonia Movil (Megaline)](https://github.com/davesh9123-alt/Planes_de_Telefonia_Movil)
 
+# Planes de Telefonia Movil (Megaline)
+
 Este proyecto evalúa los ingresos generados por los dos planes prepago de Megaline, Surf y Ultimate, para determinar cuál es más rentable. Analizando datos de 500 clientes, incluye la depuración de datos, el análisis exploratorio y la comparación de ingresos entre los planes. El proyecto implica la realización de pruebas de hipótesis para evaluar las diferencias significativas en los ingresos promedio entre planes y regiones, lo que proporciona información para optimizar el presupuesto publicitario de la compañía.
 
 
-## [Project 4: Aplicacion Web de Autos y EDA](https://github.com/davesh9123-alt/Webapp_Vehicles_and_EDA)
+## Habilidades Tecnológicas Utilizadas
 
-En este proyecto desarrolle una aplicacion web interactiva con la finalidad de poder hacer comparativas en tiempo real sobre una base de datos de automoviles, lo que permite catagorizar por modelos, fabricantes y precios. Tambien se incluye la realizacion un EDA para extraer insights relevantes para la venta a los usuarios finales.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+
+## Preguntas clave
+
+- ¿Cuál es el plan de prepago más rentable?
+- ¿Cuantos minutos mensuales utilizan los usuarios de cada plan?
+- ¿Cuál de los dos planes de prepago genera más ingresos mensuales?
+
+
+## Resultados
+
+El plan de prepago Surf es una opcion mas accesible para los usuarios. Aun asi se puede observar que los usuarios de ambos planes realizan una cantidad similar de llamadas en promedio mensualmente. 
+
+<img width="855" height="544" alt="proyecto_telefonia_movil_minutos mensuales" src="https://github.com/user-attachments/assets/ac79965c-3678-4804-bac5-018db2b9506d" />
+
+
+El plan de prepago Ultimate es la opcion de mayor valor para aquellos usuarios mas exigentes. El valor de este plan es casi tres veces el costo del plan Surf, sin embargo, podemos observar que a lo largo de los meses, el plan Surf genera mas ganancias en promedio que el plan Ultimate. Hay varias razones para esto, pero en general la mas importante es que los usuarios del plan Surf son mas del doble que los usuarios Ultimate.
+
+<img width="870" height="543" alt="proyecto_telefonia_movil_ingresos mensuales" src="https://github.com/user-attachments/assets/0655ea25-a8e3-4d42-bab6-4a857df2bedc" />
+
+
+## Conclusiones y recomendaciones
+
+En cuanto a los ingresos generados entre los dos tipos de usuarios, notamos numeros interesantes. Si bien los usuarios Ultimate generan un promedio mensual de 72.31 dolares por usuario y los usuarios Surf solo generan 60.70 por usuario al mes, la cantidad de usuarios Surf es significativamente superior (mas del doble aproximadamente) por lo que al final, los ingresos generados por el plan Surf son tambien significativamente superiores a lo generado en ganancias por el plan Ultimate. Los resultados son que los usuarios Ultimate generaron 52066.0 dolares en el periodo de 2018, mientras que los usuarios Surf generaron hasta 95491.18 dolares en el mismo periodo. Y esto tambien se muestra en los ingresos mensuales por plan, donde los usuarios Surf superan consistentemente a los usuarios Ultimate por un margen muy visible.
+
