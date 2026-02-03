@@ -9,6 +9,7 @@ Soy analista de datos con sólidos conocimientos de Python, SQL y visualización
 ## Contact me
 
 LinkedIn: https://www.linkedin.com/in/davidsalasherrera/
+
 E-mail: davidsalasherrera@outlook.com
 
 
