@@ -1,6 +1,6 @@
 ## About me
 
-Data Analyst Junior con sólidas habilidades en Python, SQL y Power BI, con enfoque en transformar datos en insights claros y accionables. He trabajado con Python para analizar métricas de consumo en telefonía móvil y retail, usando librerías como pandas, matplotlib y seaborn.
+I am a Data Analyst with a solid foundation in Python, SQL and Data Visualization (Tableau, Power BI), focused on transforming data into clear and actionable insights. I have a background in Physics, Math and Psychology which gives me a unique set of knowledge and skills that I use in combination with data analytics to provide better statistical analysis and deeper insight of the people behind data.
 
 
 ## Tech stack
